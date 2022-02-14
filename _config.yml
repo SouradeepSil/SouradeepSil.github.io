@@ -39,7 +39,7 @@ round-avatar: true
 social-network-links:
   email: "souradeep2015@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: "https://www.facebook.com/profile.php?id=100009568784370"
+  facebook: profile.php?id=100009568784370
   github: SouradeepSil
 #  medium: yourname
 #  reddit: yourname
