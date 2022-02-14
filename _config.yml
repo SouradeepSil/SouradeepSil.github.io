@@ -39,11 +39,11 @@ round-avatar: true
 social-network-links:
   email: "souradeep2015@gmail.com"
   rss: false  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Souradeep Sil
+  facebook: "https://www.facebook.com/profile.php?id=100009568784370"
   github: SouradeepSil
 #  medium: yourname
 #  reddit: yourname
-  linkedin: Souradeep Sil
+  linkedin: "https://www.linkedin.com/in/souradeep-sil-9b2b1a20a/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
