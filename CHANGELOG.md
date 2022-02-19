@@ -63,7 +63,7 @@ One of the major changes in this version is that a lot of time was spent on reth
 #### Library upgrades
 
 - Upgraded kramdown to version 2.3.0 to fix security issues
-- Upgraded jQuery to version 3.5.1 to fix a couple security vulnerabilities with the previous version
+- Upgraded jQuery to version 3.5.1 to fix a couple security vulnerabilities with the previous version of it
 
 
 ## v4.1.0 (2020-08-08)
