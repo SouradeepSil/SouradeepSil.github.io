@@ -4,7 +4,7 @@ title: Here’s How Periodic Garage Door Service Can Help
 subtitle: Garage Repair Business Tips
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [Garage Door Maintainance][Garage Door Service]
+tags: [Garage Door Maintainance]
 comments: true
 ---
 
