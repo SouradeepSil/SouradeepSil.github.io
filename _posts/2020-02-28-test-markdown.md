@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: Here’s How Periodic Garage Door Service Can Help
+subtitle: Garage Repair Business Tips
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Garage Door Maintainance][Garage Door Service]
 comments: true
 ---
 
