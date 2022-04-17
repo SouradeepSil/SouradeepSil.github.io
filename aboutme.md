@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: page
 title: About me
 subtitle: Why you're looking at my page
 ---
