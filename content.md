@@ -4,6 +4,7 @@ title: Content Writing
 subtitle: Here, you can take a gander at my writing
 ---
 
+{{content}}
 
 <div class="posts-list">
   {% for post in posts %}
