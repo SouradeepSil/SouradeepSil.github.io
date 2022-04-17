@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you're looking at my page
+title: Content Writing
+subtitle: Here, you can take a gander at my writing
 ---
 
 My name is Souradeep Sil.
