@@ -3,7 +3,7 @@ layout: post
 title: Six New Skills Every Electrician Should Have
 subtitle: All you need to know to become a successful electrician
 cover-img: /assets/img/Elecback.jpg
-thumbnail-img: /assets/img/Elec1.png
+thumbnail-img: /assets/img/Elec1.jpg
 share-img: /assets/img/Elec1.jpg
 tags: [Electrician Skill, Electrician Work]
 ---
