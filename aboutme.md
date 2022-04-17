@@ -6,7 +6,7 @@ subtitle: Why you're looking at my page
 
 My name is Souradeep Sil. I am currently on a mission to learn more about tech, free open source softwares, writing code and learn some UX/UI skills. 
 
-I am a budding content writer and have ghostwritten a few articles before and will link them here. See if they are up to your standards and whether the style is right up your alley. Like what you see? Consider hiring me for gigs! Did I mention that I'm good at UX/UI design too?
+I am a budding content writer and have ghostwritten a few articles before and will link them [here](https://souradeepsil.github.io/content/). See if they are up to your standards and whether the style is right up your alley. Like what you see? Consider hiring me for gigs! Did I mention that I'm good at UX/UI design too?
 
 You'd not want to dismiss my photography skills. While it's not extraordinary, it's nothing to scoff at either. Take a [look](https://www.instagram.com/sour_artistry/) if you want and decide for yourself. You can find them here.
 
