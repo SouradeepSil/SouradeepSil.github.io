@@ -2,9 +2,9 @@
 layout: post
 title: Six New Skills Every Electrician Should Have
 subtitle: All you need to know to become a successful electrician
-cover-img: /assets/img/elecback.jpg
-thumbnail-img: /assets/img/elec1.png
-share-img: /assets/img/elec1.jpg
+cover-img: /assets/img/Elecback.jpg
+thumbnail-img: /assets/img/Elec1.png
+share-img: /assets/img/Elec1.jpg
 tags: [Electrician Skill, Electrician Work]
 ---
 We live in a digital world where electricity is not just important to our daily lives, it’s inseparable. But for all the electric appliances and tools that we have around us, there’s a sharp shortage of qualified electricians who can maintain and repair these essential tools. Being an electrician by trade is one of the more profitable and skilled job opportunities you could choose for yourself. 
