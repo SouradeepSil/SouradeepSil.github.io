@@ -66,7 +66,7 @@ For people with moderate garage door use, it’s advised to go for an annual mai
 
 Specific components, such as springs and gears, are more susceptible to breakage during cold weather. Therefore, service should be performed in the fall season, when you need to prepare for harsh cold temperatures and the snowy winter, and also during early spring, when the moisture levels and the temperature begin to change.
 
-[Garage Door](/assets/img/doormain.jpg){: .mx-auto.d-block :}
+![Garage Door](/assets/img/doormain.jpg){: .mx-auto.d-block :}
 
 ## Conclusion
 As a rule of thumb, it’s recommended that you get at least one annual service performed on the garage door by a qualified technician if you use the garage door regularly. If your usage is more than usual, then semi-annual or quarterly servicing is recommended. Don’t forget to conduct diagnostic checks in order to ascertain the condition of your garage door. A well-maintained garage door will be one less headache that you don’t have to worry about.
