@@ -4,7 +4,8 @@ title: Content Writing
 subtitle: Here, you can take a gander at my writing
 ---
 
-{{content}}
+{}
+{% assign posts = paginator.posts | default: site.posts %}
 
 <div class="posts-list">
   {% for post in posts %}
