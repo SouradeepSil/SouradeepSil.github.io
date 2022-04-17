@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you're looking at my page
+subtitle: Here is the part where I tell you about myself
 ---
 
 My name is Souradeep Sil. I am currently on a mission to learn more about tech, free open source softwares, writing code and learn some UX/UI skills. 
