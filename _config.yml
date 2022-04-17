@@ -15,6 +15,7 @@ author: Souradeep Sil
 
 navbar-links:
   About Me: "aboutme"
+  Content: "content"
   #Resources:
     #- Beautiful Jekyll: "https://beautifuljekyll.com"
     #- Learn markdown: "https://www.markdowntutorial.com/"
