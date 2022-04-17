@@ -43,7 +43,7 @@ Here are some standard skills you would need:
  - Knowing how to repair and replace wiring, fixtures and other equipment.
 You’ll also need to know about safety measures and precautions when handling electrical wires and performing installations. Ungrounded connections, exposed wires, and circuitry can be a fire risk and injure people and damage property. That’s why safe techniques and methods should be implemented to reduce the chances of accidents occurring on the field. 
 
-![Hazard](assets/img/Elec2.jpg)
+![Hazard](/assets/img/Elec2.jpg){: .mx-auto.d-block :}
 
 **2. Physical Fitness**: It's easy to overlook, but you must consider the physical nature of being an electrician. You aren’t required to engage in strenuous activities for long periods. However, good stamina will go a long way towards making the job feel easier. Having good health and posture will ensure you aren’t easily exhausted after a long day’s work.
 
@@ -67,7 +67,7 @@ When tasked with big projects like wiring a new house, you’ll have to collabor
 
 **6. Customer Service**: Customer service is a necessary skill for an electrician. It doesn't matter if you work for a company or start your own company, being able to connect with customers is a mandatory part of the job. If a customer does not trust you or your work, you’ve lost a repeat customer. Fortunately, providing excellent customer service does not need you to move mountains. Being professional, honest, and timely with your work will often win over most customers. 
 
-![Electrician](assets/img/Elec1.jpg)
+![Electrician](/assets/img/Elec1.jpg){: .mx-auto.d-block :}
 
 ## Conclusion
 Working as a professional electrician can be highly rewarding. If you want to prosper as an electrician, being up-to-date with technical knowledge and skills is a must. You should focus on maintaining physical fitness, developing teamwork, and having a flexible work schedule. Having a sharp sense of observation will help you breeze through your tasks and save time on the job. But at the end of the day, remember customer satisfaction is key to a healthy career. Therefore, developing customer service skills is essential! In addition to these six skills, there are many more you can add to your repertoire to round out your skillset. See what works for you and what doesn’t, since not all skills are going to be easy to pick up for everyone. 
